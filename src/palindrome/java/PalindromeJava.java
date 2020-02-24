@@ -1,7 +1,7 @@
 /*
  *Yoshiki Harada
  * 24/02/2020
- * thid code 
+ * this code provide an output of palindrome with the opposite order of letters
  */
 
 package palindrome.java;
